@@ -1,6 +1,6 @@
 int maxDepth(char* s) {
-    int i,count=0,max1=0;
-    for(i=0;i<strlen(s);i++)
+    int i,count=0,max1=0,len=strlen(s);
+    for(i=0;i<len;i++)
     {
         if(s[i]=='(')
             count++;
