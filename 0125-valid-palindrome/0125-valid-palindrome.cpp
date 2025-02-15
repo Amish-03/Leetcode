@@ -11,10 +11,13 @@ public:
         cout<<new1;
         int flag=1;
         int size=new1.size();
-        for(int i=0;new1[i]!='\0';i++)
+        for(int i=0;i<size;i++)
         {
             if(new1[i]!=new1[(size-1)-i])
+            {
                 flag=0;
+                break;
+            }
         }
 
         return flag;
