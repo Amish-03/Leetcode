@@ -16,8 +16,6 @@ public:
         temp=sum; 
         sum=0; 
         }
-        if(temp==1)
-        return 1;
-        return 0;
+        return temp==1;
     }
 };
