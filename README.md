@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Amish-03/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Amish-03/Leetcode/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Amish-03/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Amish-03/Leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Amish-03/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Amish-03/Leetcode/tree/master/0242-valid-anagram) |
