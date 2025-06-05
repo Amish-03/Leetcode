@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Amish-03/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Amish-03/Leetcode/tree/master/0027-remove-element) |
+| [0198-house-robber](https://github.com/Amish-03/Leetcode/tree/master/0198-house-robber) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/Amish-03/Leetcode/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/Amish-03/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
