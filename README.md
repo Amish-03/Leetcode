@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amish-03/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Amish-03/Leetcode/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/Amish-03/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Amish-03/Leetcode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Amish-03/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Amish-03/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Amish-03/Leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Amish-03/Leetcode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Amish-03/Leetcode/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
