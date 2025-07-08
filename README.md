@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Amish-03/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Amish-03/Leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Amish-03/Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Amish-03/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Amish-03/Leetcode/tree/master/1013-fibonacci-number) |
 ## Counting
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amish-03/Leetcode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Amish-03/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Amish-03/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amish-03/Leetcode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Amish-03/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Amish-03/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
