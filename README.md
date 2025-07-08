@@ -28,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Amish-03/Leetcode/tree/master/0027-remove-element) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amish-03/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Amish-03/Leetcode/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/Amish-03/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Amish-03/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Amish-03/Leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Amish-03/Leetcode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Amish-03/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Amish-03/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Amish-03/Leetcode/tree/master/0383-ransom-note) |
 ## Math
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Amish-03/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Amish-03/Leetcode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
