@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Amish-03/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Amish-03/Leetcode/tree/master/0027-remove-element) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Amish-03/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amish-03/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Amish-03/Leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Amish-03/Leetcode/tree/master/0217-contains-duplicate) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Amish-03/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Amish-03/Leetcode/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/Amish-03/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
