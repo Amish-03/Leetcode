@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Amish-03/Leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Amish-03/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Amish-03/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Amish-03/Leetcode/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/Amish-03/Leetcode/tree/master/1013-fibonacci-number) |
 ## Counting
 |  |
@@ -94,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Amish-03/Leetcode/tree/master/0231-power-of-two) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Amish-03/Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Amish-03/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
