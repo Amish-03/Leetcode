@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Amish-03/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Amish-03/Leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Amish-03/Leetcode/tree/master/0202-happy-number) |
 | [1013-fibonacci-number](https://github.com/Amish-03/Leetcode/tree/master/1013-fibonacci-number) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Amish-03/Leetcode/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/Amish-03/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -81,5 +83,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Amish-03/Leetcode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Amish-03/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
