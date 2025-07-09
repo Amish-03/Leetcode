@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Amish-03/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Amish-03/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Amish-03/Leetcode/tree/master/0392-is-subsequence) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Amish-03/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Amish-03/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 ## Two Pointers
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Amish-03/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Amish-03/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Amish-03/Leetcode/tree/master/0414-third-maximum-number) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Amish-03/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Amish-03/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3778-transform-array-by-parity](https://github.com/Amish-03/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Amish-03/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Prefix Sum
+|  |
+| ------- |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Amish-03/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 <!---LeetCode Topics End-->
