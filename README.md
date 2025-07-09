@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Amish-03/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Amish-03/Leetcode/tree/master/0414-third-maximum-number) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Amish-03/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Amish-03/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Amish-03/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Amish-03/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Amish-03/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Amish-03/Leetcode/tree/master/0268-missing-number) |
 | [0728-self-dividing-numbers](https://github.com/Amish-03/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/Amish-03/Leetcode/tree/master/1013-fibonacci-number) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Amish-03/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 ## Counting
 |  |
 | ------- |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Amish-03/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+## Geometry
+|  |
+| ------- |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Amish-03/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 <!---LeetCode Topics End-->
