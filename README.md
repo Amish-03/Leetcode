@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Amish-03/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Amish-03/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Amish-03/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/Amish-03/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Amish-03/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Amish-03/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3778-transform-array-by-parity](https://github.com/Amish-03/Leetcode/tree/master/3778-transform-array-by-parity) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Amish-03/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Amish-03/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Amish-03/Leetcode/tree/master/0414-third-maximum-number) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/Amish-03/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Amish-03/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3778-transform-array-by-parity](https://github.com/Amish-03/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Stack
@@ -177,4 +179,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1572-subrectangle-queries](https://github.com/Amish-03/Leetcode/tree/master/1572-subrectangle-queries) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/Amish-03/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 <!---LeetCode Topics End-->
