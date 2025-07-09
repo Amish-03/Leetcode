@@ -13,8 +13,8 @@ public:
             for(int j=0;j<k;j++)
             {
                 vector<int> curPoint=points[j];
-                double curDist = sqrt((curCircle[0]-curPoint[0])*(curCircle[0]-curPoint[0]) + (curCircle[1]-curPoint[1])*     (curCircle[1]-curPoint[1]));
-                if(curDist<=curCircle[2])
+                long long curDist = (curCircle[0]-curPoint[0])*(curCircle[0]-curPoint[0]) + (curCircle[1]-curPoint[1])*     (curCircle[1]-curPoint[1]);
+                if(curDist<=curCircle[2]*curCircle[2])
                     count++;
             }
             ans[i]=count;
