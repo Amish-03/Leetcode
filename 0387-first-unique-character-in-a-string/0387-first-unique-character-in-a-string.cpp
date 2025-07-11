@@ -1,8 +1,8 @@
-#include<map>
+#include<unordered_map>
 class Solution {
 public:
     int firstUniqChar(string s) {
-        map<char,int> freq;
+        unordered_map<char,int> freq;
         for(int i=0;s[i]!='\0';i++)
         {
             freq[s[i]]++;
