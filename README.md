@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/Amish-03/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Amish-03/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3778-transform-array-by-parity](https://github.com/Amish-03/Leetcode/tree/master/3778-transform-array-by-parity) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Amish-03/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Amish-03/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/Amish-03/Leetcode/tree/master/1013-fibonacci-number) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Amish-03/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Amish-03/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Counting
 |  |
 | ------- |
