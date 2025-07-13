@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Amish-03/Leetcode/tree/master/0414-third-maximum-number) |
 | [1572-subrectangle-queries](https://github.com/Amish-03/Leetcode/tree/master/1572-subrectangle-queries) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Amish-03/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1839-decode-xored-array](https://github.com/Amish-03/Leetcode/tree/master/1839-decode-xored-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Amish-03/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Amish-03/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Amish-03/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Amish-03/Leetcode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Amish-03/Leetcode/tree/master/0389-find-the-difference) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Amish-03/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1839-decode-xored-array](https://github.com/Amish-03/Leetcode/tree/master/1839-decode-xored-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Amish-03/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Simulation
 |  |
