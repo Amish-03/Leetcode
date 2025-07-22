@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Amish-03/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Amish-03/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Amish-03/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Amish-03/Leetcode/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/Amish-03/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/Amish-03/Leetcode/tree/master/1013-fibonacci-number) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Amish-03/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Amish-03/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Amish-03/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Amish-03/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Amish-03/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Amish-03/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Amish-03/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Amish-03/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Amish-03/Leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Amish-03/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Amish-03/Leetcode/tree/master/0389-find-the-difference) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Amish-03/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/Amish-03/Leetcode/tree/master/1839-decode-xored-array) |
