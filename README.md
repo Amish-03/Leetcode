@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1839-decode-xored-array](https://github.com/Amish-03/Leetcode/tree/master/1839-decode-xored-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Amish-03/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Amish-03/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [2058-concatenation-of-array](https://github.com/Amish-03/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Amish-03/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2502-sort-the-people](https://github.com/Amish-03/Leetcode/tree/master/2502-sort-the-people) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Amish-03/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Amish-03/Leetcode/tree/master/0258-add-digits) |
+| [2058-concatenation-of-array](https://github.com/Amish-03/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Amish-03/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Amish-03/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2470-removing-stars-from-a-string](https://github.com/Amish-03/Leetcode/tree/master/2470-removing-stars-from-a-string) |
