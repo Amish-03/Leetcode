@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Amish-03/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2058-concatenation-of-array](https://github.com/Amish-03/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Amish-03/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/Amish-03/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2502-sort-the-people](https://github.com/Amish-03/Leetcode/tree/master/2502-sort-the-people) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Amish-03/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Amish-03/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1572-subrectangle-queries](https://github.com/Amish-03/Leetcode/tree/master/1572-subrectangle-queries) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/Amish-03/Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Amish-03/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Greedy
 |  |
