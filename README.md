@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Amish-03/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Amish-03/Leetcode/tree/master/0414-third-maximum-number) |
 | [1572-subrectangle-queries](https://github.com/Amish-03/Leetcode/tree/master/1572-subrectangle-queries) |
+| [1635-number-of-good-pairs](https://github.com/Amish-03/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Amish-03/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/Amish-03/Leetcode/tree/master/1839-decode-xored-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Amish-03/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Amish-03/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Amish-03/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Amish-03/Leetcode/tree/master/0389-find-the-difference) |
+| [1635-number-of-good-pairs](https://github.com/Amish-03/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Amish-03/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2502-sort-the-people](https://github.com/Amish-03/Leetcode/tree/master/2502-sort-the-people) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Amish-03/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Amish-03/Leetcode/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/Amish-03/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/Amish-03/Leetcode/tree/master/1013-fibonacci-number) |
+| [1635-number-of-good-pairs](https://github.com/Amish-03/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Amish-03/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Amish-03/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Amish-03/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Amish-03/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Amish-03/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1635-number-of-good-pairs](https://github.com/Amish-03/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Amish-03/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3778-transform-array-by-parity](https://github.com/Amish-03/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Sorting
