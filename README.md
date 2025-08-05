@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Amish-03/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2470-removing-stars-from-a-string](https://github.com/Amish-03/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/Amish-03/Leetcode/tree/master/2502-sort-the-people) |
+| [3194-find-words-containing-character](https://github.com/Amish-03/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Amish-03/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Amish-03/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Amish-03/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [3194-find-words-containing-character](https://github.com/Amish-03/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Amish-03/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Amish-03/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3778-transform-array-by-parity](https://github.com/Amish-03/Leetcode/tree/master/3778-transform-array-by-parity) |
