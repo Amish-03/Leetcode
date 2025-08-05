@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Amish-03/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Amish-03/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Amish-03/Leetcode/tree/master/0414-third-maximum-number) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Amish-03/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1572-subrectangle-queries](https://github.com/Amish-03/Leetcode/tree/master/1572-subrectangle-queries) |
 | [1635-number-of-good-pairs](https://github.com/Amish-03/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Amish-03/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Amish-03/Leetcode/tree/master/0258-add-digits) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Amish-03/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2058-concatenation-of-array](https://github.com/Amish-03/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Amish-03/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Amish-03/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
