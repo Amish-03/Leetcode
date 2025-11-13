@@ -5,7 +5,7 @@ public:
         {
             return;
         }
-        vector<int> arr;
+        
 
         if(m==0)
         {
@@ -15,6 +15,7 @@ public:
             }
             return;
         }
+        vector<int> arr;
 
     int i=0,j=0;
     int flag=0;
