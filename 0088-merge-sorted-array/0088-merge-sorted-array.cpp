@@ -1,22 +1,92 @@
 class Solution {
 public:
-    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        int i = m - 1;  // Last valid element in nums1
-        int j = n - 1;  // Last element in nums2
-        int k = m + n - 1;  // Last position in nums1
+    void merge(vector<int>& num1, int m, vector<int>& num2, int n) {
+        if(n==0)
+        {
+            return;
+        }
+        vector<int> arr;
 
-        
-        while (i >= 0 && j >= 0) {
-            if (nums1[i] > nums2[j]) {
-                nums1[k--] = nums1[i--];
-            } else {
-                nums1[k--] = nums2[j--];
+        if(m==0)
+        {
+            for(int i=0;i<n;i++)
+            {
+                num1[i]=num2[i];
+            }
+            return;
+        }
+
+    int i=0,j=0;
+    int flag=0;
+
+    while(flag==0)
+    {
+        if(num1[i]<num2[j])
+        {
+            arr.push_back(num1[i]);
+            if(i<m-1)
+                i++;
+            else
+                flag=1;
+        }
+        else if(num2[j]<num1[i])
+        {
+            arr.push_back(num2[j]);
+            if(j<n-1)
+                j++;
+            else
+                flag=-1;
+        }
+        else
+        {
+            arr.push_back(num2[j]);
+            arr.push_back(num2[j]);
+
+            if(i==m-1  && j<n-1)
+            {
+                j++;
+                flag=1;
+            }
+            else if(j==n-1 && i<m-1)
+            {
+                i++;
+                flag=-1;
+            }
+            else if(i<m-1 && j<n-1)
+            {
+                i++;
+                j++;
+            }
+            else if(i==m-1 && j==n-1)
+            {
+                flag=-2;
             }
         }
+    }
 
-        
-        while (j >= 0) {
-            nums1[k--] = nums2[j--];
+    if(flag==1)
+    {
+        while(j<n)
+        {
+            arr.push_back(num2[j]);
+            j++;
         }
+    }
+    else if(flag==-1)
+    {
+        while(i<m)
+        {
+            arr.push_back(num1[i]);
+            i++;
+        }
+    }
+
+    for(i=0;i<m+n;i++)
+    {
+        num1[i]=arr[i];
+    }
+
+
+
     }
 };
