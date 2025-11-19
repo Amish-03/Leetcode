@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3582-find-indices-of-stable-mountains](https://github.com/Amish-03/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3778-transform-array-by-parity](https://github.com/Amish-03/Leetcode/tree/master/3778-transform-array-by-parity) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Amish-03/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [4058-compute-alternating-sum](https://github.com/Amish-03/Leetcode/tree/master/4058-compute-alternating-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2299-merge-nodes-in-between-zeros](https://github.com/Amish-03/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2470-removing-stars-from-a-string](https://github.com/Amish-03/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Amish-03/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [4058-compute-alternating-sum](https://github.com/Amish-03/Leetcode/tree/master/4058-compute-alternating-sum) |
 ## Number Theory
 |  |
 | ------- |
