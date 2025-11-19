@@ -1,15 +1,26 @@
-#include<list>
 class Solution {
 public:
     vector<int> transformArray(vector<int>& nums) {
-        list<int> ans;
-        for(int num:nums)
+        int even=0,odd=0;
+        vector<int> ans;
+        for(int i=0;i<nums.size();i++)
         {
-            if(num%2==0)
-                ans.push_front(0);
+            if(nums[i]%2==0)
+                even++;
             else
-                ans.push_back(1);
+                odd++;
         }
-        return vector<int>(ans.begin(),ans.end());
+
+        for(int i=0;i<even;i++)
+        {
+            ans.push_back(0);
+        }
+        for(int i=0;i<odd;i++)
+        {
+            ans.push_back(1);
+        }
+
+        return ans;
+
     }
 };
