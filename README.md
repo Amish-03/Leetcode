@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3582-find-indices-of-stable-mountains](https://github.com/Amish-03/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3778-transform-array-by-parity](https://github.com/Amish-03/Leetcode/tree/master/3778-transform-array-by-parity) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Amish-03/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [4008-restore-finishing-order](https://github.com/Amish-03/Leetcode/tree/master/4008-restore-finishing-order) |
 | [4058-compute-alternating-sum](https://github.com/Amish-03/Leetcode/tree/master/4058-compute-alternating-sum) |
 ## Hash Table
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Amish-03/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Amish-03/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Amish-03/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [4008-restore-finishing-order](https://github.com/Amish-03/Leetcode/tree/master/4008-restore-finishing-order) |
 ## Math
 |  |
 | ------- |
