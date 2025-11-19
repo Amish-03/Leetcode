@@ -1,9 +1,6 @@
 #include<unordered_map>
 class Solution {
 public:
-
-    
-
     long long int Nc2(int n)
     {
         return (n*(n-1)/2);
