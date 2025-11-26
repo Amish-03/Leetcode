@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Amish-03/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Amish-03/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Amish-03/Leetcode/tree/master/0414-third-maximum-number) |
+| [0912-sort-an-array](https://github.com/Amish-03/Leetcode/tree/master/0912-sort-an-array) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Amish-03/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1572-subrectangle-queries](https://github.com/Amish-03/Leetcode/tree/master/1572-subrectangle-queries) |
 | [1635-number-of-good-pairs](https://github.com/Amish-03/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Amish-03/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Amish-03/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Amish-03/Leetcode/tree/master/0414-third-maximum-number) |
+| [0912-sort-an-array](https://github.com/Amish-03/Leetcode/tree/master/0912-sort-an-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/Amish-03/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Amish-03/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/Amish-03/Leetcode/tree/master/2502-sort-the-people) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Amish-03/Leetcode/tree/master/0912-sort-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Amish-03/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Backtracking
 |  |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Amish-03/Leetcode/tree/master/0912-sort-an-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Amish-03/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Brainteaser
 |  |
@@ -337,4 +341,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Amish-03/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0912-sort-an-array](https://github.com/Amish-03/Leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Amish-03/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Amish-03/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Amish-03/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
