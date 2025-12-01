@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Amish-03/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Amish-03/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2481-strictly-palindromic-number](https://github.com/Amish-03/Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Amish-03/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Amish-03/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Amish-03/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Amish-03/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Amish-03/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Amish-03/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Amish-03/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Amish-03/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Amish-03/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Bit Manipulation
 |  |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Amish-03/Leetcode/tree/master/0258-add-digits) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Amish-03/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
